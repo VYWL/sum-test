@@ -6,6 +6,5 @@ int sum(int n) {
     for(int i=1; i<=n; ++i) 
         res += i;
     
-
     return res;
 }

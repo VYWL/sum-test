@@ -1,3 +1,3 @@
 #pragma once
 
-int cum(int n);
+int sum(int n);
